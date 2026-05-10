@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.vscode/
+.idea/
+reports/
+*.log
+yolov8n.pt
+.DS_Store
+Thumbs.db
